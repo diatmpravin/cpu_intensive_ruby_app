@@ -6,9 +6,9 @@ CPU-intensive threads in MRI
 
 Steps to run application.
 
-1. git clonehttps://github.com/PravinKShepHertz/ruby_commands_disable.git
+1. git clonehttps://github.com/diatmpravin/cpu_intensive_ruby_app.git
 
-2. cd ruby_commands_disable
+2. cd cpu_intensive_ruby_app
 
 3. bundle udpate
 
